@@ -1,4 +1,4 @@
-﻿# ✈️ Service Oriented Airline Ticketing System (SE4458 Midterm Project)
+﻿# ✈️ Service Oriented Airline Ticketing System
 
 ---
 
@@ -21,19 +21,14 @@ The project is designed following **service-oriented and layered architecture pr
 
 ---
 
-## 🌐 Live Deployment
+## 🌐 Live Deployment- Not available will be deployed soon on vercel instead of azure.
 
 * **Swagger API:**
-  https://api-midterm-bgareudhf2aaakar.francecentral-01.azurewebsites.net/
+  ~~https://api-midterm-bgareudhf2aaakar.francecentral-01.azurewebsites.net/~~
 
 * **API Gateway:**
-  https://gateway-midterm-begsgfcubdhxaph0.francecentral-01.azurewebsites.net
+  ~~https://gateway-midterm-begsgfcubdhxaph0.francecentral-01.azurewebsites.net~~
 
----
-
-## 🎥 Project Demo Video
-
-[video link](https://www.youtube.com/watch?v=CF8uzmwN_rc)
 
 ---
 
